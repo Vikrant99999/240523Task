@@ -1,0 +1,98 @@
+/* maincontainer1{
+    backgroundColor: "#f5f5f5",
+  }
+  paper{
+    margin: "15px 0px 15px 0px",
+    borderRadius: "0px !important",
+    border: "1px solid rgb(233, 233, 233)",
+    backgroundColor: "white !important",
+    width: "100%",
+  }
+  container{
+    padding: "20px",
+  }
+  body_text{
+    fontSize: "14px !important",
+    textOverflow: "ellipsis",
+    overflow: "hidden",
+    whiteSpace: "nowrap",
+  }
+  projectname{
+    color: "#6F6F6F !important",
+    display: "inline-block !important",
+    marginLeft: "20px !important",
+    marginTop: "10px !important",
+    textOverflow: "ellipsis !important",
+    overflow: "hidden !important",
+    width: "calc(100% - 190px)",
+    whiteSpace: "nowrap !important",
+    fontSize: "14px !important",
+    verticalAlign: "sub !important",
+  }
+  startdate{
+    display: "flex",
+    alignItems: "center !important",
+    marginTop: "10px !important",
+    fontSize: "14px !important",
+    borderRadius: "0px !important",
+  }
+  totalpersonbox{
+    borderRight: "1px solid rgb(233, 233, 233)",
+    cursor: "pointer",
+  }
+  Wrap{
+    display: "flex",
+    marginTop: "20px !important",
+    // borderBottom: "1px solid rgb(233, 233, 233)",
+    "& p"{
+      fontWeight: "bold",
+      marginLeft: "10px",
+      textAlign: "center",
+      fontSize: "14px !important",
+    }
+  }
+  totalpersonboxtext1{
+    color: "#3CAF85 !important",
+  }
+  totalpersonboxtext2{
+    color: "#47BDEF !important",
+    textAlign: "center",
+  }
+  totalpersonboxtext3{
+    color: "#4a85c5 !important",
+  }
+  totalpersonboxtext4{
+    color: "#af3c66 !important",
+  }
+  totalpersonboxtext5{
+    color: "#ed6647 !important",
+  }
+  totalpersonboxtext6{
+    color: "#A0A0A0 !important",
+  }
+  tablebox{
+    marginTop: "10px",
+  }
+  filterData{
+    width: "170px !important",
+    marginLeft: "10px !important",
+  }
+  projectTitle{
+    fontSize: "18px !important",
+    fontWeight: "bold !important",
+  }
+  selectedButton{
+    backgroundColor: "rgb(6 102 243) !important",
+  }
+  projectname{
+    color: "#6F6F6F !important",
+    display: "inline-block !important",
+    marginLeft: "20px !important",
+    marginTop: "10px !important",
+    textOverflow: "ellipsis !important",
+    overflow: "hidden !important",
+    // width: "calc(100% - 190px)",
+    whiteSpace: "nowrap !important",
+    fontSize: "14px !important",
+    verticalAlign: "sub !important",
+  } */

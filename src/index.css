@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  font-family: 'Inter', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.custom-range-calender .react-daterange-picker__wrapper {
+  border: none;
+}
+
+.custom-range-calender .react-daterange-picker__inputGroup__input {
+  outline: 0px;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.calender-input {
+  height: 34px;
+  border-radius: 10px;
+  box-shadow: none;
+  border: 1px solid #000;
+  padding: 0 0 0 10px;
+  font-size: 14px;
+}
+
+.timesheet-table {
+  height: calc(100vh - 350px);
+  overflow: hidden;
+  overflow-y: auto;
+}
+
+.calender-widget-wrap {
+  border: 1px solid #000;
+  vertical-align: middle;
+  padding: 5px 10px;
+  cursor: pointer
+}
+
+.dateManage {
+  border: 1px solid lightgrey;
+  vertical-align: middle;
+  padding: 10px;
+  cursor: pointer;
+  width: 100%;
+  background-color: #FAFAFA;
+}
+.data-table{
+  max-height: 325px;
+  overflow-y: scroll;
+}
+.data-table-medium{
+  max-height: 500px;
+}
+.data-table-small{
+  overflow-y: scroll;
+  max-height: 150px;
+}
